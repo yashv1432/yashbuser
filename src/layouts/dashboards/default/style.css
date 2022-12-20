@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "rage-italic";
+    src: url('../../../../rage-italic/RAGE.TTF');
+}
+
+.initalName{
+    /* font-family: 'Rage italic' !important; */
+    font-family: "rage-italic" !important;
+    font-variant: small-caps !important;
+    font-size: 24px !important;
+}   
